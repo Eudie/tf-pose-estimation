@@ -1,7 +1,4 @@
 
-
-
-
 import numpy as np
 import pyqtgraph.opengl as gl
 import pyqtgraph as pg
